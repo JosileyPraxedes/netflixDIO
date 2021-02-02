@@ -90,6 +90,16 @@ main .main-movie {
   margin-right: 0.8rem;
 }
 
+.button a {
+  text-decoration: none;
+  color: #aaaaaa;
+}
+.button a:hover {
+  text-decoration: none;
+  color: #141414;
+}
+
+
 .container {
   margin-left: 2rem;
 }
